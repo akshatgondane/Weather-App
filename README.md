@@ -5,4 +5,4 @@
 - Weather information was fetched using [Open Weather API](https://openweathermap.org/).
 
 
-![screenshots](ss1.png)
+![screenshots](screenshots/ss1.png)
